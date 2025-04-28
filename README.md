@@ -34,6 +34,7 @@ and to not delete any of your settings, or license keys that you may have, unlik
 - **Q: Is it safe to use?**
   - A: Yes, the software does not need root and does not need the internet. However, be reminded that this may change due to  
     the way JetBrains implements their trial system in the future.
+    - See also: [VirusTotal (0 detects)](https://www.virustotal.com/gui/file/3908999dac8596e4793e72c18b4e102e40f787c4cd17987ac81087dab1bb57f4?nocache=1)
 
 - **Q: Is the operating system x supported?**
   - A: Currently, only Linux is supported. However, I plan to add Windows and macOS support in the future.
