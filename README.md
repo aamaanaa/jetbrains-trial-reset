@@ -37,11 +37,7 @@ and to not delete any of your settings, or license keys that you may have, unlik
 
 - **Q: Is the operating system x supported?**
   - A: Currently, only Linux is supported. However, I plan to add Windows and macOS support in the future.
-
-- ****     
-
-
-
+   
 ### DISCLAIMER:
 
 This software is provided as-is, and the creator assumes no responsibility for how it is used.
