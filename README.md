@@ -2,6 +2,9 @@
 This is a trial reset tool that can reset the trial period of any JetBrains IDE. It aims to only reset the trial period,
 and to not delete any of your settings, or license keys that you may have, unlike other tools that are available.
 
+![Alt Text](screen1.png)
+
+
 ### Requirements
 - Supported os: Linux (for now)
 - Supported IDEs:
