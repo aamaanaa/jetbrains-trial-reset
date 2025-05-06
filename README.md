@@ -20,13 +20,19 @@ and to not delete any of your settings, or license keys that you may have, unlik
   ```bash
   chmod +x trial-reset-linux-x64.elf
   ```
-- Exit any JetBrains IDEs that are running.
+- Exit any JetBrains IDEs that are running. Witout this it will not work!!!!
 - Run the binary:
   ```bash
     ./trial-reset-linux-x64.elf
     ```
 - Accept the prompt that appears.
 - That is it!
+
+If you have problems refer to the contact session.
+
+### Contact
+If you have trouble using the software, or your trial is not properly reset, please contact me [Session messenger](https://getsession.org/download).
+- 054573102fd6159e4064a974062c86d3f854d064d81314a6ca949e67a203f5610e
 
 ### FAQ
 - **Q: How does it work?**
