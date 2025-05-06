@@ -47,7 +47,16 @@ If you have trouble using the software, or your trial is not properly reset, ple
 
 - **Q: Is the operating system x supported?**
   - A: Currently, only Linux is supported. However, I plan to add Windows and macOS support in the future.
-   
+ 
+- **Q: If have x problem**
+   - A: Refer to the contact section to contact the developer for trouble shooting.
+     
+- **Q: Why is the elf UPX packed?**
+  - A: This is done so the binary is smaller, and thus faster to download for the poeple who have slower internet connection.
+
+- **Q**: Can u upload the tool to x online file uploader?
+  - A: If users wish to download the reset tool from other sources, such as DropBox, Gofile and so on, contact me and we shall see what i can do about it.
+ 
 ### DISCLAIMER:
 
 This software is provided as-is, and the creator assumes no responsibility for how it is used.
