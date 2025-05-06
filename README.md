@@ -11,7 +11,7 @@ and to not delete any of your settings, or license keys that you may have, unlik
   - JetBrains IDEs (e.g., PyCharm, IntelliJ IDEA, etc.)
 
 ### Usage
-- Download the binary from the Releases page.
+- Download the binary from the [releases page (link)](https://github.com/aamaanaa/jetbrains-trial-reset/releases).
 - Open up a terminal, cd into the directory where you downloaded the binary.
   ```bash
     cd ~/Downloads
