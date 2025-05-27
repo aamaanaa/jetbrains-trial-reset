@@ -2,9 +2,6 @@
 This is a trial reset tool that can reset the trial period of any JetBrains IDE. It aims to only reset the trial period,
 and to not delete any of your settings, or license keys that you may have, unlike other tools that are available.
 
-![Alt Text](screen1.png)
-
-
 ### Requirements
 - Supported os: Linux (for now)
 - Supported IDEs:
@@ -28,35 +25,18 @@ and to not delete any of your settings, or license keys that you may have, unlik
 - Accept the prompt that appears.
 - That is it!
 
-If you have problems refer to the contact session.
-
-### Contact
-If you have trouble using the software, or your trial is not properly reset, please contact me [Session messenger](https://getsession.org/download).
-- 054573102fd6159e4064a974062c86d3f854d064d81314a6ca949e67a203f5610e
-
 ### FAQ
-- **Q: How does it work?**
-  - A: I will not disclose this. JetBrains is known to scan for GitHub repositories that contain this information,
-    and then submitting a DMCA request to take it down. If you really want to know, you have to reverse engineer it.
-    - See also: [JetBrains DMCA takedown](https://github.com/github/dmca/blob/master/2022/04/2022-04-13-jetbrains.md)
+**How does it work?**
+I will not disclose this. JetBrains is known to scan for GitHub repositories that contain this information,
+and then submitting a DMCA request to take it down. If you really want to know, you have to reverse engineer it.
+See also: [JetBrains DMCA takedown](https://github.com/github/dmca/blob/master/2022/04/2022-04-13-jetbrains.md)
 
-- **Q: Is it safe to use?**
-  - A: Yes, the software does not need root and does not need the internet. However, be reminded that this may change due to  
-    the way JetBrains implements their trial system in the future.
-    - See also: [VirusTotal (0 detects)](https://www.virustotal.com/gui/file/3908999dac8596e4793e72c18b4e102e40f787c4cd17987ac81087dab1bb57f4?nocache=1)
-
-- **Q: Is the operating system x supported?**
-  - A: Currently, only Linux is supported. However, I plan to add Windows and macOS support in the future.
+**Is the operating system x supported?**
+Currently, only Linux is supported. However, I plan to add Windows and macOS support in the future.
  
-- **Q: If have x problem**
-   - A: Refer to the contact section to contact the developer for trouble shooting.
+**If have x problem**
+Please create a Github issue, define the problem and explain what errors you get, what editor you use, what os and so on.
      
-- **Q: Why is the elf UPX packed?**
-  - A: This is done so the binary is smaller, and thus faster to download for the poeple who have slower internet connection.
-
-- **Q**: Can u upload the tool to x online file uploader?
-  - A: If users wish to download the reset tool from other sources, such as DropBox, Gofile and so on, contact me and we shall see what i can do about it.
- 
 ### DISCLAIMER:
 
 This software is provided as-is, and the creator assumes no responsibility for how it is used.
