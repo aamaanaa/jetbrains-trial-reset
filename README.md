@@ -27,14 +27,17 @@ and to not delete any of your settings, or license keys that you may have, unlik
 
 ### FAQ
 **How does it work?**
+
 I will not disclose this. JetBrains is known to scan for GitHub repositories that contain this information,
 and then submitting a DMCA request to take it down. If you really want to know, you have to reverse engineer it.
 See also: [JetBrains DMCA takedown](https://github.com/github/dmca/blob/master/2022/04/2022-04-13-jetbrains.md)
 
 **Is the operating system x supported?**
+
 Currently, only Linux is supported. However, I plan to add Windows and macOS support in the future.
  
 **If have x problem**
+
 Please create a Github issue, define the problem and explain what errors you get, what editor you use, what os and so on.
      
 ### DISCLAIMER:
