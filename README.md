@@ -7,10 +7,12 @@ The following tool resets the trial period of any jetbrains based ide, giving yo
 <hr>
 
 ### Requirements
-- Supported os: Linux (for now)
+- Supported os: Linux
 - Supported jetbrain's IDEs: all of them
 - Electricity
 - Some of your time
+
+>  Windows and / or Mac os will not be supported.
 
 ### Instructions
 First, please download the latest version from the [releases page](https://github.com/aamaanaa/jetbrains-trial-reset/releases/)
