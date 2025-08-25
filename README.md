@@ -1,6 +1,11 @@
 ### Jetbrains trial reset
 The following tool resets the trial period of any jetbrains based ide, giving you unlimited use without spending a penny.
 
+<hr>
+
+### Tested as of 26-08-2025 and confirmed working for Goland! 
+<hr>
+
 ### Requirements
 - Supported os: Linux (for now)
 - Supported jetbrain's IDEs: all of them
