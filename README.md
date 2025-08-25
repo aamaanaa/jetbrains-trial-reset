@@ -12,9 +12,9 @@ First, please download the latest version from the [releases page](https://githu
 (Also, read the release log!)
 
 ```shell
-cd ~/Downloads
-chmod +x ./trial-reset-linux-x64.elf
-sudo ./trial-reset-linux-x64.elf
+$ cd ~/Downloads
+$ chmod +x ./trial-reset-linux-x64.elf
+$ sudo ./trial-reset-linux-x64.elf
 ```
 
 No futher action is required other then simply running it.
