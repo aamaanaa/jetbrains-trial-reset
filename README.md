@@ -19,3 +19,4 @@ sudo ./trial-reset-linux-x64.elf
 
 No futher action is required other then simply running it.
 
+Afther that, start the ide again and activate a new trial.
