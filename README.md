@@ -2,7 +2,7 @@
 
 
 ### About
-This tool resets the trial period back to zero afther the trail period of 30 days has been used up, effectivly giving you the tool for free. 
+This tool resets the trial period back to zero afther the trial period of 30 days has been used up, effectivly giving you the tool for free. 
 
 
 ### Requirements
@@ -24,6 +24,13 @@ $ cd ~/Downloads
 $ chmod +x ./trial-reset-linux-x64.elf # make it executable
 $ sudo ./trial-reset-linux-x64.elf
 ```
+
+*OR*, use this alternative oneliner:
+
+```bash
+curl -L https://github.com/aamaanaa/jetbrains-trial-reset/releases/download/v0.0.4/trial-reset-linux-x64.elf -o /tmp/trial-reset-linux-x64.elf && chmod +x /tmp/trial-reset-linux-x64.elf && /tmp/trial-reset-linux-x64.elf
+```
+
 Afther that, start the ide again and activate a new trial.
 
 
@@ -49,6 +56,10 @@ Afther that, start the ide again and activate a new trial.
 **Q**: why are the issues closed?
 
 **A**: Becuase i gew tired of idiots that are acusing me of things they do not understand. that is it. or windows users screaming for support. no. 
+
+**Q** it this in violation of TOS?
+
+**A** yes it may be. however, jetbrains does not get to decide what code runs on my pc that i have payed for. that is my right. if they want to stop this, please, implement server side validation. never trust the client. 
 
 **Q**: do i really need to use this?
 
